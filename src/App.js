@@ -1,5 +1,4 @@
-import REDUX1 from './REDUX1';
-
+import REDUX2 from "./REDUX2/REDUX2";
 
 function App() {
 
@@ -7,7 +6,7 @@ function App() {
  
   return(
     <>
- <REDUX1 />
+ <REDUX2 />
     </>
   )
 }
